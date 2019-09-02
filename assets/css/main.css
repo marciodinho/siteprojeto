@@ -619,6 +619,16 @@ input, select, textarea {
 		margin-bottom: 1em;
 	}
 
+/* inline */
+	.inline ul, li {
+		display: inline-block;
+	}
+
+	/* avatar */
+	.avatar{
+		width: 250px;
+		height: 250px;
+	}
 /* Box */
 
 	.box {
