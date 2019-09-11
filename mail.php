@@ -26,14 +26,14 @@ if($id==1)
 {
     echo '<script language="javascript">';
     echo 'alert("message successfully sent");';
-    echo "window.location='english.html';
+    echo "window.location='index.html';
           </script>";
 }
 else
 {
     echo '<script language="javascript">';
-    echo 'alert("message successfully sent");';
-    echo "window.location='index.html';
+    echo 'alert("mensagem enviada com sucesso");';
+    echo "window.location='portuguese.html';
       </script>";
 
 }
